@@ -79,7 +79,7 @@ Inc, You reserve all right, title, and interest in and to Your Contributions.
    covers Your Contributions.
 
 5. You represent that each of Your Contributions is Your original creation (see
-   section 7 for submissions on behalf of others). You represent that Your
+   section 8 for submissions on behalf of others). You represent that Your
    Contribution submissions include complete details of any third ­party
    license or other restriction (including, but not limited to, related patents
    and trademarks) of which you are personally aware and which are associated
