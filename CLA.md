@@ -3,7 +3,7 @@
 # **CLA**
 
 Thanks for your interest in contributing to the open source project(s) managed
-by Modular, Inc. (“Modular). To clarify the intellectual property license
+by Modular, Inc. (“Modular”). To clarify the intellectual property license
 granted with Contributions from any person or entity, Modular Inc must have a
 Contributor License Agreement (“CLA”) on file that has been signed by each
 contributor to any project (each, a “Contributor”), indicating agreement to the
