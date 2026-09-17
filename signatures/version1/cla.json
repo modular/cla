@@ -1535,6 +1535,14 @@
       "created_at": "2026-09-15T22:29:02Z",
       "repoId": 634043200,
       "pullRequestNo": 7137
+    },
+    {
+      "name": "a-tarasyuk",
+      "id": 509265,
+      "comment_id": 5719258352,
+      "created_at": "2026-09-17T18:24:44Z",
+      "repoId": 634043200,
+      "pullRequestNo": 7152
     }
   ]
 }
